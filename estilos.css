@@ -1,0 +1,44 @@
+body {
+    background-image: url('imagens/fundo.png');
+}
+
+#menu {
+    background-color: #c5c5b2;
+    padding: 20px;
+}
+
+#conteudo {
+    background-color: #e8e8d9;
+    padding: 10px;
+}
+
+.centralizar_texto {
+    text-align: center;
+}
+
+#borda_imagem {
+    border-style: solid;
+    border-color:#c5c5b2;
+    border-width: 8px;
+}
+
+.centralizar_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+a {
+    color: #4c4c45;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 20px;
+}
+
+p {
+    font-weight: 700;
+    color: #4c4c45;
+}
+
+
